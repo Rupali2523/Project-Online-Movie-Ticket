@@ -1,7 +1,5 @@
+# Author - Rupali Vaishnav
 # Online-Movie-Ticket-Booking
-
-## Project Walkthrough
-![1walkthrough](video/project.gif).
 
 # Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
@@ -37,8 +35,4 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
-
-## Credits
-
-	Thanks to Raghul Thangavel.His Car Parking Project Helped Me to Convert Into this One. 
 
